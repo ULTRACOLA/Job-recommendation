@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/Users/COLGATE/Desktop/spring03/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2452880936.index
+3727435316.index
+1443229078.index
+2077767538.index
+2533421577.index
+3110572356.index
